@@ -2,7 +2,7 @@
  *Michael Haugh
  *Project
  *Programming III - AP CS
- *9-11-18
+ *9-30-18
  */
 public class CarDemo {
     //^This is the class.^
