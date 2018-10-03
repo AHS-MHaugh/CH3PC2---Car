@@ -1,7 +1,7 @@
 /**
  *Michael Haugh
- *Project
- *Programming III - AP CS
+ *CH3PC2
+ *AP CS
  *9-30-18
  */
 public class CarDemo {
